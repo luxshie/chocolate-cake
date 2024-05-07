@@ -7,7 +7,7 @@ Recipe for chocolate cake
 - 1g baking soda
 
 ## Steps
-1. 
+1. [Taste flour](./step1.md)
 2. 
 3. 
 4. 
